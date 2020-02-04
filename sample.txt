@@ -1,1 +1,5 @@
 This is sample txt document.
+
+Changed file in Master branch.
+
+Changed file in future-plans branch.
